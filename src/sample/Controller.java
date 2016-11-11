@@ -69,6 +69,7 @@ public class Controller {
        // gc.lineTo(15,22);
        // gc.closePath();
 
+        //CODIGO UTIL, CHECARLO BIEEEEN
         gc.beginPath();
         gc.setFill(Color.BLACK);
         gc.moveTo(10, 10);
