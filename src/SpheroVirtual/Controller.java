@@ -1,4 +1,4 @@
-package sample;
+package SpheroVirtual;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -7,7 +7,6 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
-import javafx.scene.text.Font;
 
 public class Controller {
 @FXML

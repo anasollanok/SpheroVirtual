@@ -1,4 +1,4 @@
-package sample;
+package SpheroVirtual;
 
 /**
  * Created by bruno_000 on 08/11/2016.
